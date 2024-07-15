@@ -1,0 +1,36 @@
+# Python 관련 파일
+__pycache__/
+*.py[cod]
+*.so
+
+# 가상 환경
+venv/
+env/
+*.env
+
+# IDE 관련 파일
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 운영 체제 관련 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log
+
+# 빌드 결과물
+build/
+dist/
+*.egg-info/
+
+# 기타 임시 파일
+*.bak
+*.tmp
+*.temp
+
+# 개인 설정 파일
+config.ini
+secrets.json
